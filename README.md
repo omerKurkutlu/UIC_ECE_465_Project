@@ -24,5 +24,8 @@ This repo includes:
 
 ---
 
-## 📂 Repository Structure
+## 🎥 Project Presentation  
+Project presentation link:  
+🔗 https://docs.google.com/presentation/d/1BtVPBkaQrPdXGqAYNNXBZE2Dg3rO5JJO/edit?usp=sharing&ouid=107822084700445451411&rtpof=true&sd=true
+
 
